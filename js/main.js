@@ -36,7 +36,7 @@ const btnClose = () => {
 }
 
 document.querySelector("#btn-submit-contact").addEventListener("click", (evento) => {
-    evento.preventDefault(); //Cancelando o envio temporariamente.
+    evento.preventDefault(); // Cancelando o envio temporariamente.
 })
 
 
